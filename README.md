@@ -12,15 +12,39 @@
 ---
 
 ## 🧰 Tech Stack  
-💻 **Languages & Tools:**  
-`JavaScript` • `React` • `Node.js` • `Express` • `MongoDB` • `Firebase` • `Python` • `Tailwind` • `Git` • `VS Code`
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/>
+
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
+
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Khushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khushal1513&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khushal1513&layout=compact&theme=tokyonight)  
+![Khushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khushal1513&show_icons=true&theme=tokyonight&cache_seconds=1800)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khushal1513&layout=compact&theme=tokyonight&cache_seconds=1800)  
 
 ---
 
@@ -40,9 +64,9 @@
 
 ## 📫 Connect with Me  
 🌐 [GitHub Profile](https://github.com/Khushal1513)  
-💼[LinkedIn Profile](https://www.linkedin.com/in/
-khushal-l)   
+💼 [LinkedIn Profile](https://www.linkedin.com/in/khushal-l)  
 
 ---
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Khushal1513.Khushal1513)
+## 👀 Visitors  
+![Visitor Count](https://komarev.com/ghpvc/?username=Khushal1513&style=for-the-badge&color=blue)
