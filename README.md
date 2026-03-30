@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Khushal  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&lines=Full+Stack+Developer;AI+%26+MERN+Stack+Enthusiast;Firebase;Always+Learning+New+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&lines=Full+Stack+Developer;AI+%26+MERN+Stack+Enthusiast;Always+Learning+New+Tech)](https://git.io/typing-svg)
 
 ---
 
